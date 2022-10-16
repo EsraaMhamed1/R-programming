@@ -1,0 +1,75 @@
+
+######## R_Programmig ##########
+
+################ Data types #################
+
+#numric data type 
+numer_num <- 19.6
+class(numer_num)
+
+#integer data type
+int_num <- 200L
+class(int_num)
+
+#complix data type
+comp_num <- 1 + 3i 
+class(comp_num)
+
+# character data type //string
+new_str <- "the power of R"
+class(new_str)
+
+# logical data type //bolean 
+x <- TRUE
+y <- FALSE
+class(x)
+class(y)
+
+# Raw data type 
+v <- charToRaw("hello")
+print(class(v))
+
+# Vectors data type ##one dimentional array 
+appel <- c('red', 'green', 'yellow')
+print(class(appel))
+class(appel) # the same 
+
+# lists data type ##create a list ##list1 is name of list
+list1 <- list(c(2,5,3),21.3,sin)
+print(list1)
+
+#Matrix data type   ## create a matrix 
+#Mat <- matrix(data(vector), nrow,ncol,byrow,dimnames)
+M <- matrix(c('a','a','b','c','a'),nrow = 2, ncol = 3,byrow = TRUE)
+print(M)
+
+n <- matrix(c('1','2','3'),nrow = 3,ncol = 3, byrow = TRUE)
+print(n)
+
+# array data type 
+a <- array(c('green','yello'),dim = c(3,3,2)) # two matrix 
+print(a)
+
+b <- array(c('green','yello'), dim=c(2,1,2))
+print(b)
+
+# Factors data type 
+##factor stores the vector with distinct values of the elements 
+##create a vector 
+apple_colors <- c('green', 'green', 'yello','red','red','red','green')
+print(apple_colors)
+
+##create a factor object
+factor_apple <- factor(apple_colors)
+print(factor_apple)
+print(nlevels(factor_apple))
+
+#Data Frame data type (unlike a matrix)
+#create Data frame 
+BMI <- data.frame(
+  gender=c("male","male","female"),
+  hight = c(152, 171.5, 165),
+  weight = c(81,93,78),
+  Age = c(42,38,26)
+)
+print(BMI)
