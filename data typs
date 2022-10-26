@@ -1,0 +1,24 @@
+################ Data types #################
+
+# numric data type 
+numer_num <- 19.6
+class(numer_num)
+
+#integer data type
+int_num <- 200L
+class(int_num)
+
+# complix data type
+comp_num <- 1 + 3i 
+class(comp_num)
+
+# character data type //string
+new_str <- "the power of R"
+class(new_str)
+
+# logical data type //bolean 
+x <- TRUE
+y <- FALSE
+class(x)
+class(y)
+
