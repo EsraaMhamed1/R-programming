@@ -12,5 +12,9 @@
 ![r12](https://user-images.githubusercontent.com/109869150/203856396-9649b93d-05f9-473b-a5e9-6ef8508bfff0.png)
 ![r13](https://user-images.githubusercontent.com/109869150/203856738-f4a42ea2-77d8-4605-aa84-4b7348b56b6f.png)
 ![r14](https://user-images.githubusercontent.com/109869150/203856262-167d97b6-b3d9-4de7-b1a9-6dbcc39e3a2c.png)
+![Screenshot 2022-11-24 220506](https://user-images.githubusercontent.com/109869150/203857289-3db0800b-5286-4df9-8e74-c352bfcdb415.png)
+![Screenshot 2022-11-16 181841](https://user-images.githubusercontent.com/109869150/203857317-238fdf98-f376-45e0-a43f-8f2c4a112e3b.png)
+![Screenshot 2022-11-16 185619](https://user-images.githubusercontent.com/109869150/203857369-bfb7f3e8-20e9-4042-b6c7-ad12f39168d7.png)
+![بعىؤفهخىس ](https://user-images.githubusercontent.com/109869150/203857386-368e34a9-5373-4b18-ac56-bbbfc97a0c5e.png)
 
 ![r-1](https://user-images.githubusercontent.com/109869150/203854714-3d997457-4ebd-4344-aff3-b579af13cc72.png)
