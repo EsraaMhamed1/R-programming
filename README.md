@@ -14,4 +14,3 @@
 ![r14](https://user-images.githubusercontent.com/109869150/203856262-167d97b6-b3d9-4de7-b1a9-6dbcc39e3a2c.png)
 
 ![r-1](https://user-images.githubusercontent.com/109869150/203854714-3d997457-4ebd-4344-aff3-b579af13cc72.png)
-![r3](https://user-images.githubusercontent.com/109869150/203854726-f6142b0e-0e24-4390-bba3-02825f46413f.png)
