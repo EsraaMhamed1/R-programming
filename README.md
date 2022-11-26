@@ -17,4 +17,5 @@
 ![Screenshot 2022-11-16 181841](https://user-images.githubusercontent.com/109869150/203857317-238fdf98-f376-45e0-a43f-8f2c4a112e3b.png)
 ![Screenshot 2022-11-16 185619](https://user-images.githubusercontent.com/109869150/203857369-bfb7f3e8-20e9-4042-b6c7-ad12f39168d7.png)
 ![بعىؤفهخىس ](https://user-images.githubusercontent.com/109869150/203857386-368e34a9-5373-4b18-ac56-bbbfc97a0c5e.png)
+![statistics in R](https://user-images.githubusercontent.com/109869150/204108986-2d6a792a-ac23-4287-9d1d-36db307d849c.png)
 
